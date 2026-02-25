@@ -20,7 +20,7 @@ Desarrollador enfocado en la creación y optimización de sistemas de bases de d
 | **Backend & Modern** | ![Java](https://img.shields.io) ![Python](https://img.shields.io) ![Rust](https://img.shields.io) ![Go](https://img.shields.io) ![Node.js](https://img.shields.io) ![TypeScript](https://img.shields.io) |
 | **Cloud & BI** | ![Azure](https://img.shields.io) ![Power Bi](https://img.shields.io) **O3 (Ideasoft)**, ![Tableau](https://img.shields.io) |
 | **Data Eng & Tuning** | **SQL Expert (Tuning & Optimization)**, ![Apache Spark](https://img.shields.io) ![Pandas](https://img.shields.io) **HL7**, **ETL/ELT** |
-| **Databases** | ![PostgreSQL](https://img.shields.io) ![SQL Server](https://img.shields.io) ![Oracle](https://img.shields.io) ![DB2](https://img.shields.io) ![MongoDB](https://img.shields.io) |
+| **Databases** | ![PostgreSQL](https://img.shields.io) ![SQL Server](https://img.shields.io) ![Oracle](https://img.shields.io) ![DB2](https://img.shields.io) ![MongoDB](https://img.shields.io), Informix, MySQL |
 | **Low-Code Platform** | **GeneXus (Senior Expertise)** |
 | **Legacy Systems** | RPG III/IV, COBOL, C/C++, Delphi, Visual FoxPro, Clipper, VB, Pascal |
 | **Infra & DevOps** | ![Docker](https://img.shields.io) ![Kubernetes](https://img.shields.io) ![VMware](https://img.shields.io) **Tomcat**, **JBoss** |
