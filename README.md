@@ -1,4 +1,4 @@
-# ¡Hola! Soy Nestor (o Gabriel) 👋 
+# ¡Hola!  👋  Soy Gabriel (como me llama la mayoría de las personas) o Néstor (como me llama mi familia)
 ### Especialista en Sistemas de Misión Crítica | Ingeniería de Datos & IA
 > **"Uniendo la robustez de los sistemas Legacy con la potencia de la Ingeniería de Datos moderna."**
 
