@@ -26,6 +26,8 @@ Desarrollador enfocado en la creación y optimización de sistemas de bases de d
 - 🤖 **Data Science:** Uso de Python para transformar datos en decisiones estratégicas.
 - 🏥 **HealthTech:** Experiencia en interoperabilidad y gestión de datos de salud.
 
+Puedes ver algunos de los ultimos cursos que he realizado en UDEMY en este link https://tor1968uy.github.io/Udemy_Portfolio/
+
 ---
 
 ### 📫 Conectemos
@@ -33,6 +35,5 @@ Desarrollador enfocado en la creación y optimización de sistemas de bases de d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestor-rodr%C3%ADguez-73338a3a/)
 
-Puedes ver los ultimos cursos que he realizado en UDEMY en este link https://tor1968uy.github.io/Udemy_Portfolio/
 ---
 *“Como informático, mi meta es entender tu lenguaje y el de tu profesion para entender completamente tus necesidades y asi potenciar tu sistema.”*
