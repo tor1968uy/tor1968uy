@@ -13,12 +13,21 @@ Desarrollador enfocado en la creación y optimización de sistemas de bases de d
 
 ### 🛠️ Mi Stack Tecnológico
 
+
+### 🛠️ Mi Stack Tecnológico
+
+
 | Área | Tecnologías |
 | :--- | :--- |
-| **Lenguajes & Frameworks** | Java, Python, JavaScript, GeneXus, Node.js |
-| **Frontend** | React, Angular, jQuery |
-| **Data & Backend** | **SQL (Expertise en Tuning & Consultas complejas)**, HL7 |
-| **Infraestructura & Herramientas** | Docker, Análisis de Datos con Python, Tomcat, Jboss |
+| **Backend & Modern Langs** | ![Java](https://img.shields.io) ![Python](https://img.shields.io) ![Rust](https://img.shields.io) ![Go](https://img.shields.io) ![Node.js](https://img.shields.io) ![TypeScript](https://img.shields.io) |
+| **Cloud & Business Intelligence** | ![Azure](https://img.shields.io) ![Power Bi](https://img.shields.io) **O3 (Ideasoft)**, ![Excel](https://img.shields.io) |
+| **Low-Code & Mission Critical** | **GeneXus (Senior)**, RPG III/IV, COBOL, C/C++, Delphi, Visual FoxPro, Clipper, Pascal |
+| **Data Engineering & Tuning** | **SQL Expert (Tuning & Optimization)**, ![Apache Spark](https://img.shields.io) ![Pandas](https://img.shields.io) **HL7**, ETL/ELT |
+| **Bases de Datos (SQL/NoSQL)** | ![PostgreSQL](https://img.shields.io) ![SQL Server](https://img.shields.io) ![Oracle](https://img.shields.io) ![MongoDB](https://img.shields.io) ![Redis](https://img.shields.io) |
+| **Frontend Ecosystem** | ![React](https://img.shields.io) ![Angular](https://img.shields.io) ![Vue.js](https://img.shields.io) ![jQuery](https://img.shields.io) |
+| **Infra & Virtualization** | ![Docker](https://img.shields.io) ![Kubernetes](https://img.shields.io) ![VMware](https://img.shields.io) **Tomcat**, **JBoss** |
+
+
 
 ### ⚡ Intereses & Especialidades
 - 🏛️ **Arquitecturas Monolíticas:** Apasionado por la solidez de los grandes sistemas integrados.
