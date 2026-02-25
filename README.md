@@ -1,4 +1,4 @@
-# ¡Hola! Soy Gabriel 👋 
+# ¡Hola! Soy Nestor (o Gabriel como me dice la mayoria de mis conocidos) 👋 
 ### Especialista en Sistemas de Misión Crítica | Ingeniería de Datos & IA
 
 Desarrollador enfocado en la creación y optimización de sistemas de bases de datos de gran escala, con amplia experiencia en el sector **Salud. Laboratorios Veterinarios, Finanzas y Fabricacion y Montaje de Estructuras**. Mi filosofía se basa en que un informático debe comprender el lenguaje del negocio para construir soluciones reales; por ello, he complementado mi formación técnica con conocimientos en logística, contabilidad, finanzas, gestión, etc.
