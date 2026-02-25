@@ -26,7 +26,7 @@ Desarrollador enfocado en la creación y optimización de sistemas de bases de d
 - 🤖 **Data Science:** Uso de Python para transformar datos en decisiones estratégicas.
 - 🏥 **HealthTech:** Experiencia en interoperabilidad y gestión de datos de salud.
 
-Puedes ver algunos de los ultimos cursos que he realizado en UDEMY en este link [Udemy Portfolio](https://tor1968uy.github.io){:target="_blank"}
+Puedes ver algunos de los ultimos cursos que he realizado en UDEMY en este link [Udemy Portfolio](https://tor1968uy.github.io/Udemy_Portfolio/)
 ---
 
 ### 📫 Conectemos
