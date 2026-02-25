@@ -2,7 +2,9 @@
 ### Especialista en Sistemas de Misión Crítica | Ingeniería de Datos & IA
 > **"Uniendo la robustez de los sistemas Legacy con la potencia de la Ingeniería de Datos moderna."**
 
-Desarrollador enfocado en la creación y optimización de sistemas de bases de datos de gran escala, con amplia experiencia en **Salud, Laboratorios Veterinarios, Finanzas y Fabricación**. Mi filosofía: el informático debe hablar el lenguaje del negocio (Logística, Finanzas, Gestión) para construir soluciones reales.
+Desarrollador enfocado en la creación y optimización de sistemas de bases de datos de gran escala, con amplia experiencia en **Salud, Laboratorios Veterinarios, Finanzas y Fabricación**. 
+
+**Mi filosofía:** ***El informático debe hablar el lenguaje del negocio (Logística, Finanzas, Gestión) para construir soluciones reales.***
 
 ---
 
