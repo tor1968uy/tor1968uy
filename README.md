@@ -39,6 +39,7 @@ Desarrollador enfocado en la creación y optimización de sistemas de bases de d
 
 🎓 **Certificaciones:** Puedes ver mi progreso y cursos recientes en mi [Portfolio de Udemy ↗️](https://tor1968uy.github.io/Udemy_Portfolio/)
 
+* 🎓 **Certificaciones:** ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) Puedes ver mi progreso y cursos recientes en mi [Portfolio de Udemy ↗️](https://tor1968uy.github.io/Udemy_Portfolio/)
 ---
 
 ### 📫 Conectemos
