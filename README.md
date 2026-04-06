@@ -16,20 +16,6 @@ Desarrollador enfocado en la creación y optimización de sistemas de bases de d
 - 💡 **Filosofía:** Capacidad de interlocución técnica y funcional (HL7, Stock, Contabilidad).
 - 🌱 **Aprendizaje continuo:** Explorando arquitecturas de datos modernas y Cloud.
 
-### 🛠️ Mi Stack Tecnológico
-
-
-| Área | Tecnologías |
-| :--- | :--- |
-| **Backend & Modern** | ![Java](https://img.shields.io) ![Python](https://img.shields.io) ![Rust](https://img.shields.io) ![Go](https://img.shields.io) ![Node.js](https://img.shields.io) ![TypeScript](https://img.shields.io) |
-| **Cloud & BI** | ![Azure](https://img.shields.io) ![Power Bi](https://img.shields.io) **O3 (Ideasoft)**, ![Tableau](https://img.shields.io) |
-| **Data Eng & Tuning** | **SQL Expert (Tuning & Optimization)**, ![Apache Spark](https://img.shields.io) ![Pandas](https://img.shields.io) **HL7**, **ETL/ELT** |
-| **Databases** | ![PostgreSQL](https://img.shields.io) ![SQL Server](https://img.shields.io) ![Oracle](https://img.shields.io) ![DB2](https://img.shields.io) ![MongoDB](https://img.shields.io), Informix, MySQL |
-| **Low-Code Platform** | **GeneXus (Senior Expertise)** |
-| **Legacy Systems** | RPG III/IV, COBOL, C/C++, Delphi, Visual FoxPro, Clipper, VB, Pascal |
-| **Infra & DevOps** | ![Docker](https://img.shields.io) ![Kubernetes](https://img.shields.io) ![VMware](https://img.shields.io) **Tomcat**, **JBoss** |
-
----
 
 ### 🛠️ Mi Stack Tecnológico
 
@@ -43,7 +29,6 @@ Desarrollador enfocado en la creación y optimización de sistemas de bases de d
 | **Legacy Systems** | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) **RPG III/IV**, **COBOL**, **Delphi**, **Visual FoxPro**, **Clipper**, **VB**, **Pascal** |
 | **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) ![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=apache-tomcat&logoColor=black) ![JBoss](https://img.shields.io/badge/JBoss-CC0000?style=flat&logo=red-hat&logoColor=white) |
 
----
 ---
 
 ### ⚡ Especialidades
