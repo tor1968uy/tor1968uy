@@ -37,7 +37,12 @@ Desarrollador enfocado en la creación y optimización de sistemas de bases de d
 - 🤖 **Data Science:** Transformación de datos crudos en decisiones mediante Python.
 - 🏥 **HealthTech:** Especialista en interoperabilidad y gestión de datos clínicos.
 
-🎓 **Certificaciones:** ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) Puedes ver mi progreso y cursos recientes en mi [Portfolio de Udemy ↗️](https://tor1968uy.github.io/Udemy_Portfolio/)
+🎓 **Certificaciones:** 
+
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) Puedes ver mi progreso y cursos recientes en mi [Portfolio de Udemy ↗️](https://tor1968uy.github.io/Udemy_Portfolio/)
+
+Aqui encuentras certificaciones de cursos aprobados en las plataformas de IBM y CISCO [Creedly](https://www.credly.com/users/nestor-rodriguez.52a32fcd)
+
 ---
 
 ### 📫 Conectemos
