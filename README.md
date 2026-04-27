@@ -35,7 +35,7 @@ Desarrollador enfocado en la creación y optimización de sistemas de bases de d
 - 🏛️ **Arquitecturas Monolíticas:** Defensor de la solidez y estabilidad en sistemas core.
 - 📊 **Performance Tuning:** Optimización avanzada de queries y estructuras de datos masivas.
 - 🤖 **Data Science:** Transformación de datos crudos en decisiones mediante Python.
-- 🏥 **HealthTech:** Especialista en interoperabilidad y gestión de datos clínicos.
+- 🏥 **HealthTech:** Experiencia en interoperabilidad y gestión de datos clínicos.
 
 🎓 **Certificaciones:** 
 
