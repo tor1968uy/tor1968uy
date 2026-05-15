@@ -4,7 +4,7 @@ Soy Gabriel (como me llama la mayoría de las personas) o Néstor (como me llama
 ### Especialista en Sistemas de Misión Crítica | Ingeniería de Datos & IA
 > **"Uniendo la robustez de los sistemas Legacy con la potencia de la Ingeniería de Datos moderna."**
 
-Desarrollador enfocado en la creación y optimización de sistemas de bases de datos de gran escala, con amplia experiencia en **Salud, Laboratorios Veterinarios, Finanzas y Fabricación**. 
+Desarrollador enfocado en la creación y optimización de sistemas de bases de datos de gran escala, con amplia experiencia en **Salud, Laboratorios Veterinarios, Finanzas, Tarjetas de Crédito y Fabricación**. 
 
 **Mi filosofía:** ***El informático debe hablar el lenguaje del negocio (Logística, Finanzas, Gestión) para construir soluciones reales.***
 
@@ -12,7 +12,7 @@ Desarrollador enfocado en la creación y optimización de sistemas de bases de d
 
 ### 🚀 Sobre mí
 - 🔭 **Actualmente:** Desarrollando sistemas robustos con **GeneXus** y **Java**.
-- 🎓 **Formación:** Cursando la Licenciatura en **Ingeniería de Datos**.
+- 🎓 **Formación:** Cursando la Licenciatura en **Ingeniería de Datos e Inteligencia Artificial**.
 - 💡 **Filosofía:** Capacidad de interlocución técnica y funcional (HL7, Stock, Contabilidad).
 - 🌱 **Aprendizaje continuo:** Explorando arquitecturas de datos modernas y Cloud.
 
